@@ -28,5 +28,5 @@ Creator of Fossify | Freelance Software Developer | Open Source Enthusiast
 
 #### 💖 Support My Work
 
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support-red?logo=github&logoColor=white)](https://github.com/sponsors/naveensingh) [![Patreon](https://img.shields.io/badge/Patreon-Support-orange?logo=patreon&logoColor=white)](https://patreon.com/naveensingh) [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal&logoColor=white)](https://paypal.me/naveen3singh) [![Liberapay](https://img.shields.io/badge/Liberapay-Donate-yellow)](https://liberapay.com/naveensingh)  
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support-red?logo=github&logoColor=white)](https://github.com/sponsors/naveensingh) [![Patreon](https://img.shields.io/badge/Patreon-Support-orange?logo=patreon&logoColor=white)](https://patreon.com/naveen3singh) [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal&logoColor=white)](https://paypal.me/naveen3singh) [![Liberapay](https://img.shields.io/badge/Liberapay-Donate-yellow)](https://liberapay.com/naveensingh)  
 
