@@ -11,7 +11,7 @@ Creator of Fossify | Freelance Software Developer | Open Source Enthusiast
 
 #### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=naveensingh&show_icons=true&theme=apprentice&border_radius=16" width=400 alt="Naveen's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=naveensingh&show_icons=true&theme=apprentice&border_radius=16" width=350 alt="Naveen's GitHub Stats" />
 
 #### Tech Stack
 
