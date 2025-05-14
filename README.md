@@ -1,6 +1,6 @@
 ### Hi, I'm Naveen 👋
 
-Creator of Fossify | Freelance Software Developer | Open Source Enthusiast
+Creator of Fossify | Freelance Software Developer
 
 #### About Me
 
