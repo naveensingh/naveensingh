@@ -1,5 +1,13 @@
- Just a guy from a small village 🏠 
+### Hi, I'm Naveen 👋
 
-- Currently working on [**Fossify**](https://github.com/FossifyOrg)
-- Tinkering with microcontrollers & drones in my free time
-- All coding is supervised by a very judgmental rabbit 🐰
+Creator of Fossify | Software developer by day | Bug hunter by night 🥷
+
+#### About Me
+
+- Currently working on [**Fossify**](https://github.com/FossifyOrg). A collection of privacy-focused, open-source mobile apps.
+- In my free time, I tinker with microcontrollers and drones, and spend quality time with my 3D printer.
+- Fun fact: I have a rabbit who occasionally supervises my coding sessions.
+
+#### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=naveensingh&show_icons=true&theme=apprentice&border_radius=16" width=350 alt="Naveen's GitHub Stats" />
